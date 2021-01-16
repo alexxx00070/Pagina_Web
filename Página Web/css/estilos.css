@@ -1,0 +1,29 @@
+img.izquierda{
+    float: left;
+    margin: 10px;
+}
+p.margen{
+    margin: 5px;
+}
+ol.izquierda{
+    float: left;
+}
+
+img.derecha{
+    float: right;
+    margin: 10px;
+}
+img.center{
+    float: center;
+    margin: 10px;
+}
+
+.p{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #A0FA9A;
+}
